@@ -13,9 +13,3 @@ There are two ways to get this uploaded to your WordPress.
 * From /wp-admin, go to the Plugins section, then click Add New.
 
 I can be reached anytime at [DuaneLeem.com](https://duaneleem.com)
-
-## How I Created This
-
-I did the following to create this WP plugin:
-
-1. From bash: create-react-app .
