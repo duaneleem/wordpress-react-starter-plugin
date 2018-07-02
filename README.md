@@ -1,5 +1,7 @@
 # WordPress React Starter Plugin
 
+Status: In Progress
+
 This project's purpose is to show the ability to use React with WordPress. It does the following:
 
 * Sets WP route to /react
